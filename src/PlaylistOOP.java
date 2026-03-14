@@ -1,17 +1,4 @@
 /*
-===========================================
-TUGAS KELOMPOK 1 - OOP & DATA STRUCTURE
-Sistem Manajemen Playlist Musik
-Mata Kuliah : Data Structures and Algorithm Analysis
-Nama Kelompok:
-1. ERMAWAN WICAKSONO - 2902721213
-2. FIRMANSYAH SEPTIAN - 2902716705
-3. IGNASIUS SANTONI M. RAJAGUKGUK - 2902733195
-4. INDRA KOESUMAH - 2902742483
-5. RIZKIADI - 2902739513
-===========================================
-*/
-/*
 TUGAS KELOMPOK KE-1 (WEEK 3) - OOP & DATA STRUCTURES
 Sistem Manajemen Playlist Musik Sederhana
 
